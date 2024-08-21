@@ -1,5 +1,6 @@
 # synchronous-sync-and-asynchronous-async-processing-in-swift
 ## synchronous (sync) and asynchronous (async) processing in swift
+### scope swift
 Trong iOS Swift, sự khác biệt chính giữa xử lý đồng bộ (đồng bộ hóa) và không đồng bộ (không đồng bộ) nằm ở cách các tác vụ được thực thi và cách chúng ảnh hưởng đến luồng ứng dụng của bạn. Dưới đây là những điểm khác biệt chính và một ví dụ minh họa cho mỗi điểm: <br><br>
 
 ###  Xử lý đồng bộ (Synchronous Processing)
